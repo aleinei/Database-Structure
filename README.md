@@ -12,3 +12,5 @@
 
 6-  If the customer's information were fake, no message would be sent to the customer and and the value to be 3-FakeCustomer
 
+7-  The same for the above to be applied to Merchants
+
